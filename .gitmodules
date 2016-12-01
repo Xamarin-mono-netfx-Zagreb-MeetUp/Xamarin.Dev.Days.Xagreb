@@ -1,0 +1,3 @@
+[submodule "externals/dev-days-labs"]
+	path = externals/dev-days-labs
+	url = https://github.com/xamarin/dev-days-labs.git
